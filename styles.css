@@ -1,0 +1,72 @@
+html{
+    font-family: 'Roboto', sans-serif;
+ }
+ body{
+    margin:0;
+    padding:0;
+    background: #dbdada
+ }
+ h1{
+     margin:20px 0;
+ }
+h4{
+    margin:10px;
+    color: rgba(0, 0, 0, 0.74);
+}
+h3{
+    margin:20px;
+    text-align: center;
+}
+
+#main{
+text-align: justify;
+
+
+}
+#title{
+    padding: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+#img-div{
+    text-align: center;
+}
+#image{
+    height: auto;
+    max-width:300px;
+    border-radius: 25px;
+    display: block;
+    margin: 0 auto;
+}
+#img-caption {
+    margin: 15px 0 5px 0;
+  }
+#headline{
+    font-size: 30px;
+    margin:40px;
+    text-align: center;
+
+}
+#tribute-info{
+    font-size: 18px;
+    text-align:justify;
+
+}
+ul {
+    max-width: 650px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+li {
+    margin: 16px 0;
+  }
+  blockquote{
+      font-size: 17px;
+      font-style: italic;
+      max-width: 545px;
+      margin: 0 auto 50px auto;
+      text-align: left;
+  
+  }
